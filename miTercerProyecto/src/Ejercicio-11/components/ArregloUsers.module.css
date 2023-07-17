@@ -1,0 +1,26 @@
+
+
+
+.name_Person{
+    margin: 3px;
+    font-size: large;
+    cursor: pointer;
+    
+}
+
+.name_Person:hover {
+    color: blueviolet;
+    text-decoration: underline;
+
+}
+
+
+.extra_info {
+    margin-top: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+    border-radius: 999px;
+}

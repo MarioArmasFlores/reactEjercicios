@@ -1,0 +1,20 @@
+ *{
+    margin: 0;
+    padding: 0;
+    padding: 3px;
+}
+
+
+.organi {
+    display: flex;
+    justify-content: space-between;
+}
+.listaItems{
+    list-style-type: none;
+    margin: 2px;
+}
+
+li {
+    background-color: rgb(234, 208, 212);
+    margin-bottom: 5px;
+} 
